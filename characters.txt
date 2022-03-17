@@ -1,0 +1,11 @@
+characters
+
+
+lion
+tiger
+rabbit
+dog
+wolf
+cat
+mouse
+
